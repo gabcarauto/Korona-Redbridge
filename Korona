@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "start"
 git branch -M main
-git remote add origin https://github.com/TWOJ_LOGIN/korona-redbridge.git
+git remote add origin https://github.com/gabcarauto/Korona-Redbridge.git
 git push -u origin main
